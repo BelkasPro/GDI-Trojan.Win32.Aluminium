@@ -2,7 +2,7 @@
 
 <h2 align="center">Original malware maded by: JhoPro</h2>
 
-<h1 align="center">If you can't launch you need install **`vc_redist 2015`**.</h1>
+<h1 align="center">If you can't launch you need install vc_redist 2015.</h1>
 
 * **Safety version showcase video:** **`https://youtube.com/watch?v=MHD8nY5DaBg`**
 
