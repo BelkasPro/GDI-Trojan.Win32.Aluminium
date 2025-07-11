@@ -2,10 +2,10 @@
 
 Original malware maded by: JhoPro
 
-If you can't launch you need install **`vc_redist 2015`**.
+<b2>If you can't launch you need install **`vc_redist 2015`**.</b2>
 
-**Safety version showcase video:** **`https://youtube.com/watch?v=MHD8nY5DaBg`**
+* **Safety version showcase video:** **`https://youtube.com/watch?v=MHD8nY5DaBg`**
 
-**Danger version showcase video:** **`https://youtube.com/watch?v=oq4UU6GwPW4`**
+* **Danger version showcase video:** **`https://youtube.com/watch?v=oq4UU6GwPW4`**
 
 <img width=150% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=e6ca30&fontSize=40&fontAlignY=45&animation=twinkling&section=footer"/> 
